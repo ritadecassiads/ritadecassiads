@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ritadecassiads
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Node...
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Angular, Node, GraphQL, SQL...
 - 📫 How to reach me ritadamascenosantos3@gmail.com
 
 <!---
