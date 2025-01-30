@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @ritadecassiads
-- 🌱 I’m currently working and learning Java.
-- 📫 How to reach me dsritaa@gmail.com
-- In the present moment working with Java Web, using the JavaServer Faces(JSF) specification.
-- I've done some study projects in Node.js, React, Angular and C#. I love Javascript and creating useful things for everyday life.
-- I believe that the world of technology is infinite in possibilities and in everything that will come to be. And I, as part of a generation of young people who are changing the way they live and see the world through technology, want and need to be part of this evolution, contributing with my willpower to learn and innovate with what can be done with technology. Programming goes beyond a job, it is also about directly impacting people's lives and making it more practical. I have been passionate about what I can develop by learning to program and I want to dedicate myself entirely to this purpose.
+👋 Hi, I’m Rita!
+🌱 I’m currently working as a Junior Full Stack Developer, focusing on Java, NestJS, and Angular.
+💡 I love JavaScript and enjoy building useful and impactful applications.
+📚 I have experience with Java Web, using the JavaServer Faces (JSF) specification, and I’ve also worked on projects with Node.js, React, Angular, and C#.
 
-<!---
-ritadecassiads/ritadecassiads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I believe that technology offers infinite possibilities, and I want to be part of this evolution—learning, innovating, and contributing to solutions that make people's lives easier. For me, programming is more than a job; it's a way to create real impact.
+
+📫 Feel free to reach out: dsritaa@gmail.com
